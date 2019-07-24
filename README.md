@@ -1,5 +1,5 @@
 # 3DAttempt
-This is a Processing app designed to function as a 3D engine.
+This is a Processing app designed to function as a 3D engine. Because of this, it will require the use of Processing software, but does not run on other libraries.
 ## Controls
 
 | Press | Button       |
